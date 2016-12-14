@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTest", "EFTest\EFTest.csproj", "{EFC1F36F-97B4-4985-8F30-FCBBD1F64120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetTracker.Core", "AssetTracker.Core\AssetTracker.Core.csproj", "{3D3FC24B-BF67-4410-84F4-568F4F6338B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetTracker.Web", "AssetTracker.Web\AssetTracker.Web.csproj", "{247407B5-7357-45B2-B45A-4397306BAFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC1F36F-97B4-4985-8F30-FCBBD1F64120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC1F36F-97B4-4985-8F30-FCBBD1F64120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC1F36F-97B4-4985-8F30-FCBBD1F64120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC1F36F-97B4-4985-8F30-FCBBD1F64120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3FC24B-BF67-4410-84F4-568F4F6338B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3FC24B-BF67-4410-84F4-568F4F6338B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3FC24B-BF67-4410-84F4-568F4F6338B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3FC24B-BF67-4410-84F4-568F4F6338B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247407B5-7357-45B2-B45A-4397306BAFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247407B5-7357-45B2-B45A-4397306BAFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247407B5-7357-45B2-B45A-4397306BAFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247407B5-7357-45B2-B45A-4397306BAFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
